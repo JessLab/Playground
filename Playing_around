@@ -9,3 +9,6 @@ elif a < 2:
 	print('a is down there')
 else:
 	print(a)
+	
+print(b)
+print(c)
