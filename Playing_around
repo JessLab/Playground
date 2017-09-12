@@ -1,0 +1,11 @@
+a = 15
+b = 23
+c = 29
+print (a,b,c)
+
+if a > 36:
+	print('a is up there')
+elif a < 2:
+	print('a is down there')
+else:
+	print(a)
